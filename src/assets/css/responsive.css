@@ -233,10 +233,6 @@
     font-size: 14px;
   }
 
-  .header .mainmenu-area .navbar {
-    padding: 8px 0px;
-  }
-
   .section-heading .title,
   .sh-wrpper .section-heading .title,
   .contact-section .contact-area h2,
@@ -760,7 +756,7 @@
   }
 
   .header .mainmenu-area.mainmenu-area2 .navbar .navbar-brand img {
-    max-height: 50px;
+    max-height: 70px;
   }
 
   .breadcrumb-area h2 {

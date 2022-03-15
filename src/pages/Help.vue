@@ -84,7 +84,7 @@
                 <li>
                   <p>
                     4. We are entitled to make amendments to these User Agreement at any time and without advanced notice. If we make such amendments, we may take
-                    appropriate steps to bring such changes to your attention (such as by email or placing a notice on a prominent position on the Website, together with the amended User Agreement) but it shall be your sole responsibility to check for any amendments, updates and/or modifications. Your continued use of Cryptowar services and Website after any such amendment to the User Agreement will be deemed as your acceptance and agreement to be bound by such
+                    appropriate steps to bring such changes to your attention (such as by email or placing a notice on a prominent position on the Website, together with the amended User Agreement) but it shall be your sole responsibility to check for any amendments, updates and/or modifications. Your continued use of OpenWorld services and Website after any such amendment to the User Agreement will be deemed as your acceptance and agreement to be bound by such
                     amendments, updates and/or modifications.
                   </p>
                 </li>
@@ -113,7 +113,7 @@
               <ul>
                 <li>
                   <p>
-                    CryptoWar reserves the right to cancel any promotion, bonus or bonus program (including, but not limited to top-up rewards, invite friends to reward bonuses and loyalty programs) with immediate effect if we believe the bonus has been set up incorrectly or is being abused, and if said bonus has been paid out, we reserve the right to decline any Withdraw request and to deduct such amount from your account. Whether or not a bonus is deemed to be set up incorrectly or abused shall be determined solely by CryptoWar.
+                    OpenWorld reserves the right to cancel any promotion, bonus or bonus program (including, but not limited to top-up rewards, invite friends to reward bonuses and loyalty programs) with immediate effect if we believe the bonus has been set up incorrectly or is being abused, and if said bonus has been paid out, we reserve the right to decline any Withdraw request and to deduct such amount from your account. Whether or not a bonus is deemed to be set up incorrectly or abused shall be determined solely by OpenWorld.
                   </p>
                 </li>
               </ul>

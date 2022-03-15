@@ -48,10 +48,10 @@
               </h2>
               <h6 class="text">
 
-                CryptoWar applies a play-to-earn model. This game involves giving players financial incentives to play and progress through the game. This may allow gamers to earn a full time income by playing and trading.</h6>
+                OpenWorld applies a play-to-earn model. This game involves giving players financial incentives to play and progress through the game. This may allow gamers to earn a full time income by playing and trading.</h6>
                 <h6 class="text">
 
-                All objects in CryptoWar are expressed as NFTs– digital tokens used to prove ownership of scarce heroes and weapons. Once you find and accrue these items through gameplay, you have the option to trade these with others in CryptoWar marketplace in exchange for cryptocurrency.
+                All objects in OpenWorld are expressed as NFTs– digital tokens used to prove ownership of scarce heroes and weapons. Once you find and accrue these items through gameplay, you have the option to trade these with others in OpenWorld marketplace in exchange for cryptocurrency.
                 </h6>
                 <h6 class="text">
                 Users can increase their earning potential by dedicating time leveling-up and improving their characters, or sell their NFT to others
@@ -60,7 +60,7 @@
           All NFTs and cryptocurrency transaction data are stored on a public blockchain which helps players easily prove ownership of their in-game items and Items accrued during gameplay cannot be counterfeited, removed or destroyed.
                 </h6>
                 <h6 class="text">
-              CryptoWar also have auto-staking , where players can lock away certain tokens in order to earn annual interest.
+              OpenWorld also have auto-staking , where players can lock away certain tokens in order to earn annual interest.
                 </h6>
 
 
@@ -235,7 +235,7 @@
         <div class="col-lg-6">
           <div class="section-heading content-left">
             <h2 class="title ">
-              CryptoWar
+              OpenWorld
               Community
             </h2>
             <h6 class="text">

@@ -7,7 +7,7 @@
       <div>
         <div>
           <img
-            src="@/assets/images/cryptowar/xBlade-logo-02.webp"
+            src="@/assets/images/cryptowar/open-world-logo.png"
             class="xbn_rotate"
             style="width: 137px; display: inline"
           />

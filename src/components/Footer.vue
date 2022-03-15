@@ -93,7 +93,7 @@
               <div class="col-lg-12">
                 <div class="heading-area">
                   <h5 class="sub-title">
-                    Become a part of CryptoWar Community
+                    Become a part of OpenWorld Community
                   </h5>
                   <h4 class="title">
                     To Get Exclusive Benefits
@@ -128,7 +128,7 @@
         <div class="col-lg-12">
           <div class="flogo">
             <!-- <a href="#"><img  loading="lazy" v-lazysizes :data-src="../assets/images/footer-ogo.png" alt=""></a> -->
-            <a href="#"><img  loading="lazy" v-lazysizes :data-src="'../assets/images/cryptowar/xBlade-logo-03.webp'" alt=""></a>
+            <a href="#"><img  loading="lazy" v-lazysizes :data-src="'../assets/images/cryptowar/open-world-logo.png'" alt=""></a>
           </div>
           <div class="social-links">
             <ul>

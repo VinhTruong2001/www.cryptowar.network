@@ -8,7 +8,9 @@ import "sweetalert2/dist/sweetalert2.min.css";
 import vueLazysizes from 'vue-lazysizes';
 
 
+
 const app = createApp(App);
+
 app.use(VueSweetalert2);
 // app.use(VueLazyload);
 // @ts-ignore

@@ -32,6 +32,11 @@ const routes = [
     name: 'landing-page',
     component: () => import("./pages/Home.vue")
   },
+  {
+    path: '/airdrop',
+    name: 'airdrop',
+    component: () => import("./pages/Airdrop.vue")
+  },
   // {
   //   path: '/buy',
   //   name: 'buy-xblade',

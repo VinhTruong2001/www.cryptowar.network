@@ -486,13 +486,23 @@
     width: 400%;
   }
   .marquee-item {
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-    box-shadow: inset 0px 0px 12px 7px #9a13d2;
     padding: 20px 20px;
     margin: 0 10px;
     box-sizing: content-box;
     min-width: 151px;
+  }
+}
+
+@media (min-width: 991px) {
+  .marquee-wrapper:hover .marquee-list {
+    animation-play-state: paused;
+  }
+
+  .marquee-item:hover {
+    box-shadow: inset 0px 0px 12px 7px #fea036;
+    transform: translateY(-5px);
+    will-change: transform, box-shadow;
+    transition: all 0.5s;
   }
 }
 

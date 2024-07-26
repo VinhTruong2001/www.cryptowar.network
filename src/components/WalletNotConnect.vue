@@ -25,23 +25,21 @@
 </template>
 
 <script>
-
 export default {
   name: "WalletNotConnect",
 };
 </script>
 
 <style scoped>
-
 /* CSS */
 .connect-button {
   align-items: center;
-  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  background-image: linear-gradient(144deg, #af40ff, #5b42f3 50%, #00ddeb);
   border: 0;
   border-radius: 8px;
   box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
   box-sizing: border-box;
-  color: #FFFFFF;
+  color: #ffffff;
   display: flex;
   font-family: Phantomsans, sans-serif;
   font-size: 20px;
@@ -63,6 +61,16 @@ export default {
   outline: 0;
 }
 
+.airdrop h2 {
+  font-size: 20px;
+}
+
+.airdrop .center-content {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
 @media (min-width: 768px) {
   .connect-button {
     font-size: 24px;

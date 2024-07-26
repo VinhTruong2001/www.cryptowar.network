@@ -34,11 +34,9 @@ export default {
                 <img  loading="lazy" v-lazysizes :data-src="'../assets/images/text.webp'" alt="">
               </h1>
               <div class="links">
+                <p><a href="https://bond.cryptowar.network/#/" class="mybtn1" target="_blank" rel="noopener noreferrer">Buy XBLADE</a> </p>
                 <a href="https://play.cryptowar.network/#/" class="mybtn1" target="_blank" rel="noopener noreferrer">Play Now</a>
-                <!-- <a href="https://www.youtube.com/watch?v=jssO8-5qmag" class="video_btn play-video mfp-iframe">
-                  <i class="fas fa-play"></i>
-                </a> -->
-              </div>
+                </div>
             </div>
           </div>
         </div>
@@ -137,7 +135,9 @@ export default {
             <h6 class="text">
               Get started in less than 5 min and experience crypto game like never before.
             </h6>
-            <a href="https://play.cryptowar.network/#/" class="mybtn1" target="_blank" rel="noopener noreferrer">Play Now</a>
+              <a href="https://play.cryptowar.network/#/" class="mybtn1" target="_blank" rel="noopener noreferrer">Play Now</a>
+            <br/>
+            <a href="https://bond.cryptowar.network/#/" class="mybtn1" target="_blank" rel="noopener noreferrer">Buy XBLADE</a>
           </div>
         </div>
       </div>

@@ -128,7 +128,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://t.me/cryptowarxblade" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/elasticbitcoinxbt" target="_blank" rel="noopener noreferrer">
                   <i class="fab fa-telegram"></i>
                 </a>
               </li>
@@ -157,7 +157,12 @@
           <div class="footer-menu">
             <ul>
               <li>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=0x27a339d9B59b21390d7209b78a839868E319301B" target="_blank" rel="noopener noreferrer">
+                <a href="https://bond.cryptowar.network">
+                  Mint Bond
+                </a>
+              </li>
+              <li>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0x27a339d9B59b21390d7209b78a839868E319301B">
                   Buy xBlade
                 </a>
               </li>

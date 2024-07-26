@@ -27,7 +27,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/cryptowarxblade" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/elasticbitcoinxbt" target="_blank" rel="noopener noreferrer">
                       <i class="fab fa-telegram"></i>
                     </a>
                   </li>
@@ -95,33 +95,19 @@
               <div class="collapse navbar-collapse fixed-height" id="main_menu">
                 <div class="main-menu-inner">
                   <ul class="navbar-nav">
-                    <!-- <li class="nav-item dropdown">
-                      <a class="nav-link active dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true"
-                         aria-expanded="false">
-                        Home
-                      </a>
-                      <ul class="dropdown-menu" >
-                        <li><a class="dropdown-item" href="index.html"> <i class="fa fa-angle-double-right"></i>Home 1</a></li>
-                        <li><a class="dropdown-item" href="index2.html"> <i class="fa fa-angle-double-right"></i> Home 2</a></li>
-                        <li><a class="dropdown-item" href="index3.html"> <i class="fa fa-angle-double-right"></i> Home 3</a></li>
-                        <li><a class="dropdown-item" href="index4.html"> <i class="fa fa-angle-double-right"></i> Home 4</a></li>
-                        <li><a class="dropdown-item" href="index5.html"> <i class="fa fa-angle-double-right"></i> Home 5</a></li>
-                      </ul>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                      <a class="nav-link" href="/">Home</a>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                      <router-link class="nav-link" to="/buy">Buy xBlade</router-link>
-                    </li> -->
+                    <li>
+                        <router-link class="mybtn1" to="/airdrop">Airdrop</router-link>
+                    </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="https://wiki.cryptowar.network" target="_blank" rel="noopener noreferrer">WhitePaper</a>
+                      <a class="nav-link" href="https://wiki.cryptowar.network" target="_blank" rel="noopener noreferrer">Docs</a>
                     </li>
 
-                    <li class="nav-item">
-                      <a class="nav-link" href="https://wiki.cryptowar.network/backers-and-partners" target="_blank" rel="noopener noreferrer">Partners</a>
-                    </li>
-
+                    <!-- <li class="nav-item">
+                      <a class="nav-link" href="https://wiki.cryptowar.network/backers-and-partners" target="_blank" rel="noopener noreferrer">Backers</a>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                      <router-link class="nav-link" to="/airdrop">Airdrop</router-link>
+                    </li> -->
                   </ul>
                   <router-link class="navbar-brand d-none d-lg-block m-auto" :to="{name: 'landing-page'}">
                     <img loading="lazy" class="l2 ml-5" src="../assets/images/cryptowar/xBlade-logo-02.webp" alt="" style="">
@@ -164,11 +150,9 @@
                     <!-- <li class="nav-item">
                       <a class="nav-link" href="https://test.cryptowar.network">Testnet</a>
                     </li> -->
-
                     <li>
                       <a href="https://play.cryptowar.network/#/"
-                      class="mybtn1" target="_blank" rel="noopener noreferrer"
-                      > Play now!</a>
+                      class="mybtn1">Play</a>
                     </li>
                   </ul>
                 </div>
